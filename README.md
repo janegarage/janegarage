@@ -1,4 +1,6 @@
-## Hi there 👋
+# Welcome to JaneGarage
+
+Hello, cowboy, this is Jane. I code on occasion.
 
 <!--
 **janegarage/janegarage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
